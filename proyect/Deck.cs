@@ -6,9 +6,18 @@ namespace project
     {
         int cp;
         int maxCP;
-        
 
-        
+        int charMax, equipMax;
+        int supMax;
+
+        int charTotal, equipTotal;
+        int supTotal;
+
+        public void AddCard()
+        {
+            
+        }
+         
 
 
     }

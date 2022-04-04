@@ -3,7 +3,7 @@ namespace project
 {
 	public class player
 	{
-		Deck=deck;
+		public Deck deck;
     }
 
 }
