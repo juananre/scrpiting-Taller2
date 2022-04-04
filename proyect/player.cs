@@ -1,7 +1,7 @@
 using System;
 namespace project
 {
-	public class player
+	public class Player
 	{
 		public Deck deck;
     }
