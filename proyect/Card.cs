@@ -7,5 +7,14 @@ namespace project
         string name;
         int cp;
 
+        public enum Affinity
+        {
+            Common,
+             Rare,
+              SuperRare,
+              UltraRare,
+            
+        };
+
     }
 }
