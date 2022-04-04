@@ -13,6 +13,8 @@ namespace project
         int charTotal, equipTotal;
         int supTotal;
 
+        //Card <Character,Equip,Supportkill>Deck;
+
         public void AddCard()
         {
             

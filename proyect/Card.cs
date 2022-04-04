@@ -2,7 +2,7 @@ using System;
 
 namespace project
 {
-    abstract class card
+    abstract class Card
     {
         string name;
         int cp;

@@ -6,6 +6,10 @@ namespace project
     {
         TargetAtribute tA;
         int eP;
+        public enum Affinity
+        {
+            
+        }
     
         
     

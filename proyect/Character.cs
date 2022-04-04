@@ -7,6 +7,10 @@ namespace project
         int ap;
         int rp;
         
+        public enum Affinity
+        {
+            
+        }
     
 
     }
