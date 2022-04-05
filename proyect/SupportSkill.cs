@@ -6,8 +6,6 @@ namespace project
     {
         EffectType eType;
         int eP;
-        
-    
     }
 
 }

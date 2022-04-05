@@ -1,20 +1,20 @@
 using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace project
 {
-    abstract class Card
+    public enum Affinity
     {
-        string name;
-        int cp;
+        Common,
+        Rare,
+        SuperRare,
+        UltraRare,
+    }
 
-        public enum Affinity
-        {
-            Common,
-             Rare,
-              SuperRare,
-              UltraRare,
-            
-        };
-
+    public abstract class Card
+    {
+       public string name;
+       public int cp;      
     }
 }

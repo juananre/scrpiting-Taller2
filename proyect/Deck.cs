@@ -4,16 +4,8 @@ namespace project
 {
     public class Deck
     {
-        int cp;
-        int maxCP;
-
-        int charMax, equipMax;
-        int supMax;
-
-        int charTotal, equipTotal;
-        int supTotal;
-
-        //Card <Character,Equip,Supportkill>Deck;
+        int cP, charTotal, equipTotal, suppTotal;
+        int maxCP, charMax, equipMax, suppMax;
 
         public void AddCard()
         {

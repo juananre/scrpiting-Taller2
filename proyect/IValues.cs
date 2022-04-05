@@ -2,13 +2,10 @@ using System;
 
 namespace project
 {
-    public class IValues
+    interface IValues
     {
-        public void ApplyValues()
-        {
-
+        public void ApplyValues() { 
         }
-
     }
 
 }
